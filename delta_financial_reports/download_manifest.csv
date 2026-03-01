@@ -1,0 +1,109 @@
+category,year,quarter,expected_filename,status,source_url,notes
+10-Q,2016,Q1,"Delta 2016 Q1 10Q",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000002790416000015/dal331201610q.htm,SEC EDGAR
+10-Q,2016,Q2,"Delta 2016 Q2 10Q",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000002790416000026/dal630201610q.htm,SEC EDGAR
+10-Q,2016,Q3,"Delta 2016 Q3 10Q",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000002790416000029/dal930201610q.htm,SEC EDGAR
+10-Q,2017,Q1,"Delta 2017 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790417000008/dal331201710q.htm,SEC EDGAR
+10-Q,2017,Q2,"Delta 2017 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790417000013/dal630201710q.htm,SEC EDGAR
+10-Q,2017,Q3,"Delta 2017 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790417000017/dal930201710q.htm,SEC EDGAR
+10-Q,2018,Q1,"Delta 2018 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790418000013/dal331201810q.htm,SEC EDGAR
+10-Q,2018,Q2,"Delta 2018 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790418000016/dal630201810q.htm,SEC EDGAR
+10-Q,2018,Q3,"Delta 2018 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790418000020/dal930201810q.htm,SEC EDGAR
+10-Q,2019,Q1,"Delta 2019 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790419000005/dal331201910q.htm,SEC EDGAR
+10-Q,2019,Q2,"Delta 2019 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790419000008/dal630201910q.htm,SEC EDGAR
+10-Q,2019,Q3,"Delta 2019 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790419000012/dal930201910q.htm,SEC EDGAR
+10-Q,2020,Q1,"Delta 2020 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790420000007/dal-20200331.htm,SEC EDGAR
+10-Q,2020,Q2,"Delta 2020 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790420000010/dal-20200630.htm,SEC EDGAR
+10-Q,2020,Q3,"Delta 2020 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790420000013/dal-20200930.htm,SEC EDGAR
+10-Q,2021,Q1,"Delta 2021 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790421000006/dal-20210331.htm,SEC EDGAR
+10-Q,2021,Q2,"Delta 2021 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790421000009/dal-20210630.htm,SEC EDGAR
+10-Q,2021,Q3,"Delta 2021 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790421000012/dal-20210930.htm,SEC EDGAR
+10-Q,2022,Q1,"Delta 2022 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790422000006/dal-20220331.htm,SEC EDGAR
+10-Q,2022,Q2,"Delta 2022 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790422000010/dal-20220630.htm,SEC EDGAR
+10-Q,2022,Q3,"Delta 2022 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790422000013/dal-20220930.htm,SEC EDGAR
+10-Q,2023,Q1,"Delta 2023 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790423000006/dal-20230331.htm,SEC EDGAR
+10-Q,2023,Q2,"Delta 2023 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790423000009/dal-20230630.htm,SEC EDGAR
+10-Q,2023,Q3,"Delta 2023 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790423000013/dal-20230930.htm,SEC EDGAR
+10-Q,2024,Q1,"Delta 2024 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790424000006/dal-20240331.htm,SEC EDGAR
+10-Q,2024,Q2,"Delta 2024 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790424000009/dal-20240630.htm,SEC EDGAR
+10-Q,2024,Q3,"Delta 2024 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790424000012/dal-20240930.htm,SEC EDGAR
+10-Q,2025,Q1,"Delta 2025 Q1 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790425000007/dal-20250331.htm,SEC EDGAR
+10-Q,2025,Q2,"Delta 2025 Q2 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790425000012/dal-20250630.htm,SEC EDGAR
+10-Q,2025,Q3,"Delta 2025 Q3 10Q",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790425000020/dal-20250930.htm,SEC EDGAR
+Presentation,2016,Q1,"Delta 2016 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816011175/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2016,Q2,"Delta 2016 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816017742/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2016,Q3,"Delta 2016 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816022777/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2016,Q4,"Delta 2016 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817000596/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2017,Q1,"Delta 2017 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817009032/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2017,Q2,"Delta 2017 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817016850/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2017,Q3,"Delta 2017 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817022961/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2017,Q4,"Delta 2017 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818000493/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2018,Q1,"Delta 2018 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818008951/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2018,Q2,"Delta 2018 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818017044/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2018,Q3,"Delta 2018 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818023568/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2018,Q4,"Delta 2018 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819000491/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2019,Q1,"Delta 2019 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819008416/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2019,Q2,"Delta 2019 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819016561/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2019,Q3,"Delta 2019 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819022696/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2019,Q4,"Delta 2019 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820000590/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2020,Q1,"Delta 2020 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820004964/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2020,Q2,"Delta 2020 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820007881/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2020,Q3,"Delta 2020 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820012226/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2020,Q4,"Delta 2020 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821000297/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2021,Q1,"Delta 2021 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821001429/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2021,Q2,"Delta 2021 Q2 Earnings Presentation",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000168316821002954/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2021,Q3,"Delta 2021 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821004801/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2021,Q4,"Delta 2021 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822000238/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2022,Q1,"Delta 2022 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822002578/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2022,Q2,"Delta 2022 Q2 Earnings Presentation",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000168316822004923/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2022,Q3,"Delta 2022 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822006867/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2022,Q4,"Delta 2022 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823000172/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2023,Q1,"Delta 2023 Q1 Earnings Presentation",downloaded,https://www.sec.gov/Archives/edgar/data/27904/000168316823002326/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2023,Q2,"Delta 2023 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823004828/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2023,Q3,"Delta 2023 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823007072/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2023,Q4,"Delta 2023 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824000244/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2024,Q1,"Delta 2024 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824002249/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2024,Q2,"Delta 2024 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2024,Q3,"Delta 2024 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824007033/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2024,Q4,"Delta 2024 Q4 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825000182/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2025,Q1,"Delta 2025 Q1 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825002353/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2025,Q2,"Delta 2025 Q2 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825005002/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Presentation,2025,Q3,"Delta 2025 Q3 Earnings Presentation",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790425000018/,8-K EX-99.2 exhibit; re-run downloader when EDGAR unblocks
+Transcript,2016,Q1,"Delta 2016 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816011175/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2016,Q2,"Delta 2016 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816017742/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2016,Q3,"Delta 2016 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316816022777/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2016,Q4,"Delta 2016 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817000596/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2017,Q1,"Delta 2017 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817009032/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2017,Q2,"Delta 2017 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817016850/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2017,Q3,"Delta 2017 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316817022961/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2017,Q4,"Delta 2017 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818000493/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2018,Q1,"Delta 2018 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818008951/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2018,Q2,"Delta 2018 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818017044/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2018,Q3,"Delta 2018 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316818023568/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2018,Q4,"Delta 2018 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819000491/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2019,Q1,"Delta 2019 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819008416/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2019,Q2,"Delta 2019 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819016561/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2019,Q3,"Delta 2019 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316819022696/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2019,Q4,"Delta 2019 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820000590/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2020,Q1,"Delta 2020 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820004964/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2020,Q2,"Delta 2020 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820007881/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2020,Q3,"Delta 2020 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316820012226/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2020,Q4,"Delta 2020 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821000297/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2021,Q1,"Delta 2021 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821001429/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2021,Q2,"Delta 2021 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821002954/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2021,Q3,"Delta 2021 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316821004801/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2021,Q4,"Delta 2021 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822000238/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2022,Q1,"Delta 2022 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822002578/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2022,Q2,"Delta 2022 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822004923/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2022,Q3,"Delta 2022 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316822006867/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2022,Q4,"Delta 2022 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823000172/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2023,Q1,"Delta 2023 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823002326/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2023,Q2,"Delta 2023 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823004828/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2023,Q3,"Delta 2023 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316823007072/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2023,Q4,"Delta 2023 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824000244/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2024,Q1,"Delta 2024 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824002249/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2024,Q2,"Delta 2024 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824004743/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2024,Q3,"Delta 2024 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316824007033/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2024,Q4,"Delta 2024 Q4 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825000182/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2025,Q1,"Delta 2025 Q1 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825002353/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2025,Q2,"Delta 2025 Q2 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000168316825005002/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
+Transcript,2025,Q3,"Delta 2025 Q3 Earnings Transcript",pending,https://www.sec.gov/Archives/edgar/data/27904/000002790425000018/,8-K EX-99.1 earnings press release (closest public-domain substitute for transcript)
