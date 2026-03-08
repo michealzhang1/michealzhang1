@@ -1,0 +1,23 @@
+============================================================
+Utility Companies Financial Reports Downloader
+Scope: 2023–2025  |  9 companies  |  4 document types
+Started: 2026-03-08 05:04:03
+============================================================
+
+############################################################
+# Processing: Duke Energy (DUK)  CIK=1326160
+############################################################
+
+============================================================
+  Duke Energy (DUK)  —  10-K + 10-Q Filings
+============================================================
+
+  Found 3 10-K filings in 2023–2025
+  Downloading: Duke Energy 2024 Annual 10K  (filed 2025-02-27)
+    https://www.sec.gov/Archives/edgar/data/1326160/000132616025000072/duk-20241231.htm
+    ✓  Duke Energy 2024 Annual 10K.htm  (15590 KB)
+  Downloading: Duke Energy 2023 Annual 10K  (filed 2024-02-23)
+    https://www.sec.gov/Archives/edgar/data/1326160/000132616024000037/duk-20231231.htm
+    ✓  Duke Energy 2023 Annual 10K.htm  (14702 KB)
+  Downloading: Duke Energy 2022 Annual 10K  (filed 2023-02-27)
+    https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/duk-20221231.htm
